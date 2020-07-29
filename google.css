@@ -1,0 +1,31 @@
+.logo {
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 12%; 
+width: 15%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.search-box {
+    display: block;
+    text-align: center;
+    margin-top: 2%;
+}
+
+#search {
+    width: 32%;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 14px;
+    border-radius: 30px;
+    border-color: lightgray;
+    outline: none;
+    border-style: solid;
+    box-shadow: none;
+}
