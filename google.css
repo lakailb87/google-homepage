@@ -48,7 +48,7 @@ img {
 }
 
 .search-button:hover {
-    
+
 }
 
 .search-button-div {
@@ -95,7 +95,7 @@ li a:hover {
 .top-nav-bar {
     position: absolute;
     margin-top: -400px;
-    width: 100%;
+    width: 99%;
     height: 20px;
 }
 
@@ -118,4 +118,45 @@ li a:hover {
 #images {
     margin-left: 2%;    
 }
+
+.footer {
+    position: absolute;
+    margin-top: 28%;
+    width: 99%;
+    height: 40px;
+    background-color: #f2f2f2;
+    vertical-align: middle;
+        
+}
+
+#advertising {
+    margin-left: 3%;
+    font-size: 13px;
+    line-height: 40px;
+    
+}
+
+#business {
+    margin-left: 2%;
+   
+
+}
+
+#how-search-works {
+    margin-left: 2%;
+    
+}
+
+#privacy {
+    margin-left: 62%;    
+}
+
+#terms {
+    margin-left: 2%;    
+}
+
+#settings {
+    margin-left: 2%;    
+}
+
 
